@@ -107,7 +107,7 @@ button {
    text-decoration: none;
    border-radius: 0.5rem;
    border: none;
-   color: #81ecec;
+   color: #73efef;
    outline: none;
    cursor: pointer;
    margin: 0 1px;
@@ -118,6 +118,7 @@ button {
 
 button:hover {
    opacity: 1;
+   transform: scale(1.1);
 }
 
 button[disabled] {
@@ -358,10 +359,16 @@ textarea {
    max-width: 150px;
 }
 
+.profile-img img {
+   border-radius: 10%;
+   border: #175b78;
+   border-style: solid;
+}
+
 .navActive {
    color: var(--secondary);
    cursor: default;
-   text-shadow: 3px 3px 15px rgba(255, 255, 255, 0.5);
+   text-shadow: 3px 3px 15px rgba(12, 27, 77, 0.5);
 }
 @media only screen and (max-width: 1300px) {
    nav {
