@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "976aa56c6603f45020d1",
+    "revision": "10cc7ab26663075b22e8",
     "url": "/PatrickCiongoli-Portfolio/static/css/main.b353dfc8.chunk.css"
   },
   {
-    "revision": "976aa56c6603f45020d1",
-    "url": "/PatrickCiongoli-Portfolio/static/js/main.976aa56c.chunk.js"
+    "revision": "10cc7ab26663075b22e8",
+    "url": "/PatrickCiongoli-Portfolio/static/js/main.10cc7ab2.chunk.js"
   },
   {
     "revision": "720485474eeb78d66576",
@@ -36,11 +36,15 @@ self.__precacheManifest = [
     "url": "/PatrickCiongoli-Portfolio/static/media/pc-BudgetTracker.5117a5da.jpg"
   },
   {
+    "revision": "a68ddfe66adeac9fdc0f1584b5a55a36",
+    "url": "/PatrickCiongoli-Portfolio/static/media/silver-giggle.a68ddfe6.jpg"
+  },
+  {
     "revision": "d389fc97aeb1611b5a8d49001966d66a",
     "url": "/PatrickCiongoli-Portfolio/static/media/zookeeper.d389fc97.jpg"
   },
   {
-    "revision": "6f31f8003e182de00109647d52201e1e",
+    "revision": "2dbe06012c8dc59fffc0f7abd276e3fc",
     "url": "/PatrickCiongoli-Portfolio/index.html"
   }
 ];
