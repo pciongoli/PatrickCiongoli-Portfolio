@@ -5,6 +5,12 @@ function Portfolio() {
    // Replace links with deployed projects and GitHub repos
    const [projects] = useState([
       {
+         name: "silver-giggle",
+         description: "REACT, MERN Stack",
+         link: "https://fathomless-peak-27221.herokuapp.com/",
+         repo: "https://github.com/ChristanFox/silver-giggle",
+      },
+      {
          name: "PC-MVC-TechBlog",
          description: "Model-View-Controller TechBlog",
          link: "https://secret-falls-79420.herokuapp.com/",
@@ -16,12 +22,7 @@ function Portfolio() {
          link: "https://gentle-hamlet-11355.herokuapp.com/",
          repo: "https://github.com/pciongoli/pc-BudgetTracker",
       },
-      {
-         name: "deep-thoughts",
-         description: "MERN Stack",
-         link: "https://desolate-tundra-35458.herokuapp.com/",
-         repo: "https://github.com/pciongoli/deep-thoughts",
-      },
+
       {
          name: "zookeeper",
          description: "REACTT",
