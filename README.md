@@ -4,7 +4,7 @@
 https://pciongoli.github.io/PatrickCiongoli-Portfolio/
 
 ## Purpose
-The purpose of this project was to create a portfolio page for myself using the MERN stack and React skills I have aquired.
+The purpose of this project was to create a portfolio page using React, in which I can showcase some of my work.
 
 ## Technologies Used
 * React
@@ -13,3 +13,5 @@ The purpose of this project was to create a portfolio page for myself using the 
 ## Contact
 - Patrick Ciongoli
 - Email: patrick.ciongoli@gmail.com
+
+Thank you for visiting!
