@@ -3,12 +3,7 @@ import React from "react";
 function Contact() {
    return (
       <div>
-         <p>
-            <strong>Patrick Ciongoli</strong>
-         </p>
-         <p>
-            <br />
-         </p>
+         <p></p>
          <p>Phone: 201-881-6804 | &nbsp;Email: patrick.ciongoli@gmail.com</p>
          <p>
             LinkedIn:

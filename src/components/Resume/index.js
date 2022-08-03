@@ -4,11 +4,6 @@ function Resume() {
    return (
       <div>
          <p>
-            <strong>Patrick Ciongoli</strong>
-         </p>
-         <p></p>
-
-         <p>
             Ambitious full stack web developer with a large spectrum of
             knowledge in both front and backend languages and procedures. I
             received my bachelor's degree in economics with a minor in
