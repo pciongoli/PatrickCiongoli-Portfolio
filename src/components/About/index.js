@@ -6,14 +6,17 @@ function About() {
       <section className="my-5">
          <div className="my-2">
             <div className="profile-img my-6">
-                  <img src={profileImage} alt="Picture of me"></img>
+               <img src={profileImage} alt="Picture of me"></img>
             </div>
+            <p>Hello and wecome to my website!</p>
             <p>
-               Ambitious full stack web developer with a large spectrum of
-               knowledge in both front and backend languages and procedures. My
-               goal is to continue building my portfolio with new and exciting
-               projects that can fully capture my passion for this field, as
-               well as allow me to continue learning along the way.
+               My name is Patrick, I am a full stack web developer specializing
+               in the MERN stack.
+            </p>
+            <p>
+               My goal is to continue building my portfolio with new and
+               exciting projects that can fully capture my passion for this
+               field, as well as allow me to continue learning along the way.
             </p>
             <p>
                Recieved my certificate in full stack web devolopment from
@@ -21,7 +24,7 @@ function About() {
             </p>
             <p>
                Thank you so much for viewing my profile and please enjoy taking
-               a look at some of my deployed project! 🙂
+               a look at some of my deployed projects! 🙂
             </p>
          </div>
       </section>
