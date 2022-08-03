@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "10cc7ab26663075b22e8",
-    "url": "/PatrickCiongoli-Portfolio/static/css/main.b353dfc8.chunk.css"
+    "revision": "64433d25a99d6637c4ea",
+    "url": "/PatrickCiongoli-Portfolio/static/css/main.9a282232.chunk.css"
   },
   {
-    "revision": "10cc7ab26663075b22e8",
-    "url": "/PatrickCiongoli-Portfolio/static/js/main.10cc7ab2.chunk.js"
+    "revision": "64433d25a99d6637c4ea",
+    "url": "/PatrickCiongoli-Portfolio/static/js/main.64433d25.chunk.js"
   },
   {
-    "revision": "720485474eeb78d66576",
-    "url": "/PatrickCiongoli-Portfolio/static/js/1.72048547.chunk.js"
+    "revision": "62dc8ac38cb2490c6c91",
+    "url": "/PatrickCiongoli-Portfolio/static/js/1.62dc8ac3.chunk.js"
   },
   {
     "revision": "d2c47a920e3f6302e8d0",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/PatrickCiongoli-Portfolio/static/media/zookeeper.d389fc97.jpg"
   },
   {
-    "revision": "2dbe06012c8dc59fffc0f7abd276e3fc",
+    "revision": "a7663237eb4f59919bbcff7115f56222",
     "url": "/PatrickCiongoli-Portfolio/index.html"
   }
 ];
