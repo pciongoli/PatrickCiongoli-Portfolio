@@ -14,17 +14,19 @@ function About() {
                in the MERN stack.
             </p>
             <p>
-               My goal is to continue building my portfolio with new and
-               exciting projects that can fully capture my passion for this
-               field, as well as allow me to continue learning along the way.
+               Recieved my Certificate in Full Stack Web Devolopment from
+               Rutgers University Bootcamp!
             </p>
             <p>
-               Recieved my certificate in full stack web devolopment from
-               Rutgers University Bootcamp and have been coding ever since!
+               My goal is to continue building my portfolio with new and
+               exciting projects that can fully capture my passion for this
+               field, as well as allow me to continue learning and making
+               connections along the way!
             </p>
             <p>
                Thank you so much for viewing my profile and please enjoy taking
-               a look at some of my deployed projects! 🙂
+               a look at some of my deployed projects and dont hesitate to reach
+               out! 🙂
             </p>
          </div>
       </section>
