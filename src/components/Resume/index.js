@@ -32,12 +32,12 @@ function Resume() {
             <strong>SKILLS</strong>
          </p>
          <ul>
-            <li>Excellent verbal and written communication skills</li>
             <li>
-               Flexible, quick learner, focused, dependable, self-motivated, and
+               Flexible, quick learner, focused, dependable, self-starter, and
                detail-oriented
             </li>
-            <li>Strong communication and solving skills</li>
+            <li>Excellent verbal and written communication skills</li>
+            <li>Strong problem solving skills</li>
             <li>
                Able to effectively self manage while completing individual
                projects, as well as collaborate and contribute in a team
@@ -110,7 +110,9 @@ function Resume() {
             <strong>
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>2022</em>
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               <em>2022</em>
             </strong>
          </p>
          <ul>
@@ -121,19 +123,16 @@ function Resume() {
             </li>
          </ul>
          <p>
-            <strong>Rutgers University -&nbsp;</strong> Newark, NJ
+            <strong>Rutgers University - &nbsp;</strong> Newark, NJ
             <strong>
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp;<em>2021</em>
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               <em>2021</em>
             </strong>
          </p>
          <ul>
-            <li>
-               Bachelor of Arts, Economics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp;
-            </li>
+            <li>Bachelor of Arts, Economics</li>
             <li>Minor, Psychology</li>
          </ul>
          <p></p>
@@ -144,7 +143,8 @@ function Resume() {
             <strong>
                Rutgers University Coding Bootcamp &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2022
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp;2022
             </strong>
          </p>
          <ul>
