@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "379653dac04630c66a73",
-    "url": "/PatrickCiongoli-Portfolio/static/css/main.9a282232.chunk.css"
+    "revision": "627d0a158e401942fa04",
+    "url": "/PatrickCiongoli-Portfolio/static/css/main.428c857a.chunk.css"
   },
   {
-    "revision": "379653dac04630c66a73",
-    "url": "/PatrickCiongoli-Portfolio/static/js/main.379653da.chunk.js"
+    "revision": "627d0a158e401942fa04",
+    "url": "/PatrickCiongoli-Portfolio/static/js/main.66dcc624.chunk.js"
   },
   {
-    "revision": "62dc8ac38cb2490c6c91",
-    "url": "/PatrickCiongoli-Portfolio/static/js/1.62dc8ac3.chunk.js"
+    "revision": "d674255e29b1dee8ab6f",
+    "url": "/PatrickCiongoli-Portfolio/static/js/runtime~main.c5218173.js"
   },
   {
-    "revision": "d2c47a920e3f6302e8d0",
-    "url": "/PatrickCiongoli-Portfolio/static/js/runtime~main.d2c47a92.js"
+    "revision": "cce14055c89eaa1bbb71",
+    "url": "/PatrickCiongoli-Portfolio/static/js/2.87c41aa9.chunk.js"
   },
   {
-    "revision": "9708ab59283fc86eb2e8ceff832a5aa4",
-    "url": "/PatrickCiongoli-Portfolio/static/media/cover-image.9708ab59.jpg"
+    "revision": "1f1817423a9fc3883983b7b7cd02832b",
+    "url": "/PatrickCiongoli-Portfolio/static/media/cover-image.1f181742.jpg"
   },
   {
     "revision": "a404b54bff99fdca006e2858ac1c5d4a",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "732b1c9a715504910e6ccc25a8796462",
     "url": "/PatrickCiongoli-Portfolio/static/media/PC-MVC-TechBlog.732b1c9a.jpg"
+  },
+  {
+    "revision": "41c28c06a7a4f1e2ba2f1f6371ddf971",
+    "url": "/PatrickCiongoli-Portfolio/static/media/Tic-Tac-Code.41c28c06.jpg"
   },
   {
     "revision": "22ddfceb32c495006d343c0690a1e07c",
@@ -44,7 +48,7 @@ self.__precacheManifest = [
     "url": "/PatrickCiongoli-Portfolio/static/media/zookeeper.d389fc97.jpg"
   },
   {
-    "revision": "8f1581be9d06fe6971ddb678ffe07c4e",
+    "revision": "f63b66d7dcd00d481eaaa6cb5a361f58",
     "url": "/PatrickCiongoli-Portfolio/index.html"
   }
 ];
