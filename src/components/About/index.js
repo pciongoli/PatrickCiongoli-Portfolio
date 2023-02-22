@@ -6,7 +6,7 @@ function About() {
       <section className="my-5">
          <div className="my-2">
             <div className="profile-img my-6">
-               <img src={profileImage} alt="Picture of me"></img>
+               <img src={profileImage} alt="Picture of Patrick Ciongoli"></img>
             </div>
             <p>
                Hey there, I'm Patrick - a passionate Full Stack Web Developer
@@ -22,19 +22,7 @@ function About() {
                responsive applications that captivate users and provide them
                with exceptional experiences.
             </p>
-            <p>
-               I'm always pushing myself to take on new and exciting projects to
-               add to my already diverse portfolio. Whether it's building a
-               complex web application from scratch or revamping an existing
-               project, I'm up for the challenge. I am constantly learning and
-               exploring new technologies to stay ahead of the curve.
-            </p>
-            <p>
-               My goal is to continue building my portfolio with new and
-               exciting projects that can fully capture my passion for this
-               field, as well as allow me to continue learning and making
-               connections along the way!
-            </p>
+
             <p>
                If you're looking for a skilled and dedicated Full Stack Web
                Developer who is passionate about delivering top-notch solutions,
