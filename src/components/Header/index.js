@@ -3,9 +3,9 @@ import coverImage from "../../assets/cover/cover-image.jpg";
 
 function Header(props) {
    return (
-      <header className="flex-row justify-content-top px-1">
+      <header className="flex-row justify-content-top px-2">
          <h1>Patrick Ciongoli</h1>
-         <img src={coverImage} alt="wooden background"></img>
+         <img className="cover-image" src={coverImage} alt="Golden Gate"></img>
          {props.children}
       </header>
    );

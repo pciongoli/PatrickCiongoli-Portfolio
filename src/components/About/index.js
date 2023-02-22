@@ -8,14 +8,26 @@ function About() {
             <div className="profile-img my-6">
                <img src={profileImage} alt="Picture of me"></img>
             </div>
-            <p>Hello and wecome to my website!</p>
             <p>
-               My name is Patrick, I am a full stack web developer specializing
-               in the MERN stack.
+               Hey there, I'm Patrick - a passionate Full Stack Web Developer
+               who loves working with the MERN stack! I graduated from the
+               intensive Full Stack Web Development program at Rutgers
+               University Bootcamp and I am thrilled to share my skills with the
+               world.
             </p>
             <p>
-               Recieved my Certificate in Full Stack Web Devolopment from
-               Rutgers University Bootcamp!
+               Web development is more than just a job to me; it's a creative
+               outlet that allows me to build something amazing from nothing. I
+               love nothing more than designing and developing stunning,
+               responsive applications that captivate users and provide them
+               with exceptional experiences.
+            </p>
+            <p>
+               I'm always pushing myself to take on new and exciting projects to
+               add to my already diverse portfolio. Whether it's building a
+               complex web application from scratch or revamping an existing
+               project, I'm up for the challenge. I am constantly learning and
+               exploring new technologies to stay ahead of the curve.
             </p>
             <p>
                My goal is to continue building my portfolio with new and
@@ -24,9 +36,11 @@ function About() {
                connections along the way!
             </p>
             <p>
-               Thank you so much for viewing my profile and please enjoy taking
-               a look at some of my deployed projects and dont hesitate to reach
-               out! 🙂
+               If you're looking for a skilled and dedicated Full Stack Web
+               Developer who is passionate about delivering top-notch solutions,
+               then look no further! I am excited to discuss how I can help take
+               your project to the next level. Let's connect and bring your
+               vision to life!
             </p>
          </div>
       </section>

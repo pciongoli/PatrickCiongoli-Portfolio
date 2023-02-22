@@ -1,17 +1,17 @@
 main {
    margin: 0 auto;
    max-width: 85%;
-   padding: 55px 30px;
+   padding: 45px 30px;
 }
 :root {
-   --primary: #8c54ff;
-   --secondary: #6166f6;
-   --tertiary: #1470;
-   --light: #fafafa;
-   --dark: #799fba;
-   --darker: #0c4963;
-   --alpha: rgba(255, 255, 255, 0.7);
-   --error: rgb(160, 62, 43);
+   --primary: #ffc107;
+   --secondary: #7efff0;
+   --tertiary: #4caf50;
+   --light: white;
+   --dark: #0232f4;
+   --darker: #010b1b;
+   --alpha: rgba(138, 85, 85, 0.8);
+   --error: #f44336;
    --spacing-one: calc(1rem * 0.8);
    --spacing-two: calc(2rem);
    --spacing-five: calc(2.2rem);
@@ -33,9 +33,10 @@ body {
    line-height: 1.5;
    font-size: 24px;
    letter-spacing: 0.1em;
-   background: linear-gradient(#04222e, #8bacc3);
+   background: linear-gradient(#d4d4e5, #253d9d);
    color: var(--light);
-   font-family: "Open Sans", sans-serif;
+   font-family: "Livvic", sans-serif;
+   /* font-family: "Handlee", cursive; */
 }
 
 h1,
@@ -44,7 +45,6 @@ h3,
 h4,
 h5,
 h6 {
-   font-family: "Indie Flower", cursive;
    font-weight: 500;
    margin: 4px 0;
    line-height: 1.25;
@@ -54,6 +54,7 @@ h1 {
    font-size: 5rem;
    margin: 50px 18px;
    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+   font-family: "Handlee", cursive;
 }
 
 h2 {
@@ -102,10 +103,10 @@ header a {
 }
 
 button {
-   font-size: 1rem;
+   font-size: 1.5rem;
    font-weight: 600;
    text-decoration: none;
-   border-radius: 0.5rem;
+   border-radius: 0.3rem;
    border: none;
    color: #73efef;
    outline: none;
@@ -150,7 +151,7 @@ input {
 }
 
 input:focus {
-   border: 1px solid var(--secondary);
+   border: 1px solid var(--tertiary);
    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5);
 }
 
@@ -163,7 +164,7 @@ li {
 }
 
 header {
-   height: 200px;
+   height: 20rem;
    position: relative;
    overflow: hidden;
    z-index: 2;
@@ -171,7 +172,6 @@ header {
 
 header h1 {
    position: relative;
-   z-index: 2;
 }
 
 header img {
@@ -181,14 +181,15 @@ header img {
    left: 0;
    height: auto;
    filter: sepia(1) opacity(90%);
-   opacity: 0.9;
+   opacity: 0.85;
 }
 
 nav {
-   position: relative;
-   font-family: "Indie Flower", cursive;
+   display: flex;
+   flex-wrap: wrap;
    font-size: 2.5rem;
    margin: 30px 20px;
+   font-family: "Handlee", cursive;
 }
 
 nav a:hover {
@@ -197,7 +198,7 @@ nav a:hover {
 
 nav li {
    cursor: pointer;
-   text-shadow: 1px 1px 5px rgba(50, 9, 9, 0.5);
+   text-shadow: 1px 1px 5px rgba(130, 70, 70, 0.5);
    margin: 0 50px;
 }
 
@@ -283,8 +284,8 @@ textarea {
 }
 
 .px-1 {
-   padding-right: var(--spacing-one);
-   padding-left: var(--spacing-one);
+   padding-right: var(--spacing-five);
+   padding-left: var(--spacing-five);
 }
 
 .px-2 {
@@ -398,5 +399,32 @@ textarea {
       width: 100%;
       text-align: center;
       font-size: 2.3rem;
+   }
+}
+
+@media only screen and (max-width: 600px) {
+   body {
+      font-size: 18px;
+   }
+   header h1 {
+      font-size: 3rem;
+      margin: 30px 10px;
+   }
+   nav {
+      margin: 0 5px;
+      font-size: 1.2rem;
+   }
+   .container {
+      width: 100%;
+   }
+   .card {
+      width: 100%;
+   }
+   .project {
+      height: 200px;
+      margin: 10px;
+   }
+   .project-text {
+      padding: 20px;
    }
 }
