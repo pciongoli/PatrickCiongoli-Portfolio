@@ -5,6 +5,18 @@ function Portfolio() {
    // Replace links with deployed projects and GitHub repos
    const [projects] = useState([
       {
+         name: "Tic-Tac-Code",
+         description: "Multiplayer Tic-Tac-Toe Game",
+         link: "https://tic-tac-code.herokuapp.com/",
+         repo: "https://github.com/pciongoli/tic-tac-code",
+      },
+      // {
+      //    name: "PC-MVC-TechBlog",
+      //    description: "Model-View-Controller TechBlog",
+      //    link: "https://secret-falls-79420.herokuapp.com/",
+      //    repo: "https://github.com/pciongoli/PC-MVC-TechBlog",
+      // },
+      {
          name: "silver-giggle",
          description: "REACT, MERN Stack",
          link: "https://fathomless-peak-27221.herokuapp.com/",
