@@ -20,13 +20,15 @@ function App() {
 
    return (
       <div>
-         <Header></Header>
-         <main>
+         <Header>
             <Nav
                pages={pages}
                setCurrentPage={setCurrentPage}
                currentPage={currentPage}
             ></Nav>
+         </Header>
+
+         <main>
             <Page currentPage={currentPage}></Page>
          </main>
          <Footer />
